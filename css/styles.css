@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@700&family=Merriweather&display=swap");
+
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+* {
+  	margin: 0;
+  	padding: 0;
+  	box-sizing: border-box;
+}
+
+body {
+  	background-color: #fff6be;
+	font-family: 'Merriweather', serif;
+  	font-size: 18px;
+  	margin: 0px;
+}
+
+h1 {
+  	font-size: 30px;
+  	font-weight: bold;
+	font-family: 'Cabin Sketch', cursive;
+}
+
+h2 {
+  	color: black;
+  	font-size: 23px;
+  	font-weight: bold;
+}
+
+
+a {
+  text-decoration: none;
+}
